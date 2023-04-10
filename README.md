@@ -1,0 +1,2 @@
+# FluentUIEditableDetailsList
+Created with CodeSandbox
